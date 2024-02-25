@@ -4,8 +4,8 @@ I'm [Lawrence](https://github.com/mericGit), a Junior studying Computer Science 
 
 My primary interests are in machine learning and data science, with a focus on quantitative finance and data analytics!
 
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lawrencezhang04@gmail.com)](mailto:lawrencezhang04@gmail.com)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=MericGit)
+[![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:lawrencezhang04@gmail.com)](mailto:lawrencezhang04@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lawrence-zhang-0a5112217/)](https://www.linkedin.com/in/lawrence-zhang-0a5112217/)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=MericGit&show_icons=true&hide_border=true">
 
