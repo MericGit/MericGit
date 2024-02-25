@@ -10,7 +10,7 @@ My primary interests are in machine learning and data science, with a focus on q
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=MericGit&show_icons=true&hide_border=true">
 
 ## 🧐 About
-- 👨‍💻 My Resume: ####
+- 👨‍💻 My Resume: [Resume](https://github.com/MericGit/MericGit/blob/main/Lawrence_Zhang_Resume.pdf)
 - 📫 How to reach me: lawrencezhang04@gmail.com
 
 🌱 Languages and Tools: 
