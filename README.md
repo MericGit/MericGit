@@ -1,8 +1,8 @@
 # 𝗛𝗲𝗹𝗹𝗼！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
 
-I'm [Lawrence](https://github.com/mericGit), a Senior studying Computer Science @ The University of Maryland College Park 👨‍💻.
+I'm [Lawrence](https://github.com/mericGit), a Senior studying Computer Science @ The University of Maryland College Park 👨‍💻, and will be a SWE @ Meta after graduation. 
 
-My primary interests are in machine learning and data science, with a focus on quantitative finance and data analytics!
+My primary interest is in infra at scale, "big data" and novel software solutions to create positive change :) 
 
 [![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:lawrencezhang04@gmail.com)](mailto:lawrencezhang04@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lawrence-zhang-0a5112217/)](https://www.linkedin.com/in/lawrence-zhang-0a5112217/)
