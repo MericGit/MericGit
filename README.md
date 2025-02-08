@@ -10,6 +10,6 @@ My primary interest is in infra at scale, "big data" and novel software solution
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=MericGit&show_icons=true&hide_border=true">
 
 ## 🧐 About
-- 👨‍💻 My Resume (Often outdated): [Resume](https://github.com/MericGit/MericGit/blob/15b4020d35e7f4e3b890d435b4039259eb61f24d/Zhang_Lawrence_Resume.pdf)
+- 👨‍💻 My Resume (Often outdated): [Resume](https://github.com/MericGit/MericGit/blob/main/Zhang_Lawrence_Resume.pdf)
 - 📫 How to reach me: lawrencezhang04@gmail.com
 
