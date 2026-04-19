@@ -10,6 +10,5 @@ My current work focuses on model / GPU efficiency and managing capacity at scale
 
 
 ##
-- 👨‍💻 My Resume (Often outdated): [Resume](https://github.com/MericGit/MericGit/blob/main/Zhang_Lawrence_Resume.pdf) - Last updated: Jan 2025
 - 📫 How to reach me: lawrencezhang04@gmail.com
 
